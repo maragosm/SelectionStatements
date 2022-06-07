@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\bin\Debug\netcoreapp3.1\Number Guess.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\bin\Debug\netcoreapp3.1\Number Guess.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\bin\Debug\netcoreapp3.1\Number Guess.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\bin\Debug\netcoreapp3.1\Number Guess.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\bin\Debug\netcoreapp3.1\Number Guess.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\bin\Debug\netcoreapp3.1\Number Guess.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Number Guess\obj\Debug\netcoreapp3.1\Number Guess.genruntimeconfig.cache
